@@ -1,5 +1,5 @@
 # Madhav_Store_Sales_Dashboard
-Madhav Store is a retail business specializing in a wide range of consumer goods including Clothing, Electronics and Furniture
+Madhav Store is a retail business specializing in a wide range of consumer goods including Clothing, Electronics and Furniture.
 Key Performance Indicators- the project will focus on the following KPIS
 Total Sales Revenue- The total income generated from sales.
 Average Transaction Value- The average amount spent per transaction.
